@@ -1,0 +1,4 @@
+asyncio
+numpy
+pytube
+discord.py
