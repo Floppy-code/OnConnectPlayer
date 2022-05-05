@@ -8,7 +8,7 @@ from pytube import YouTube
 
 from SoundManager import SoundManager
 
-TOKEN = 'ODc3OTg3NjUwMDcyNjMzMzg0.YR6ntw.Q0YQ_0Z0rfmJalfxZ5P6TwKkA8Q'
+TOKEN = ''
 FFMPEG = './ffmpeg.exe'
 
 intents = discord.Intents.all()     #TODO Fix later...
